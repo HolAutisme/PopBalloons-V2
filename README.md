@@ -1,3 +1,3 @@
 # PopBalloons V2
 
-Plus d'informations dans le fichier [a relative link](PopBalloons-V2-Instructions.pdf)
+Plus d'informations dans [le fichier d'instructions](PopBalloons-V2-Instructions.pdf)
