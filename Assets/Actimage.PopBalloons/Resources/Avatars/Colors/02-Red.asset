@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f871c1915934a75468b34173487d72ea, type: 3}
+  m_Name: 02-Red
+  m_EditorClassIdentifier: 
+  tag: 1
+  sprite: {fileID: 21300000, guid: 46fd5249a13aeec428cb84a83e61ed16, type: 3}
+  icon: {fileID: 21300000, guid: 859a23e96277d9540b4baf0e4eaba20e, type: 3}
+  iconSelected: {fileID: 21300000, guid: c47fa383c6600cd48b16b9f07f086e04, type: 3}
+  iconHover: {fileID: 21300000, guid: 907e4153f4939ee4fa2909c9c5ae331e, type: 3}

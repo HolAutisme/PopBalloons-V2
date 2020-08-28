@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f871c1915934a75468b34173487d72ea, type: 3}
+  m_Name: 03-Green
+  m_EditorClassIdentifier: 
+  tag: 2
+  sprite: {fileID: 21300000, guid: 661e2c9e8741cb04092533fc526525d7, type: 3}
+  icon: {fileID: 21300000, guid: 40db04c8de898e24baa53023e49fef28, type: 3}
+  iconSelected: {fileID: 21300000, guid: 5195f767130ce3b44846d9cadd95048a, type: 3}
+  iconHover: {fileID: 21300000, guid: ca8d785388a3e91438a6c5bd460f623e, type: 3}

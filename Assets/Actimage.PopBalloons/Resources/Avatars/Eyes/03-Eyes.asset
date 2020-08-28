@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efc7b1f251594fc40b789884dcce3302, type: 3}
+  m_Name: 03-Eyes
+  m_EditorClassIdentifier: 
+  tag: 2
+  sprite: {fileID: 21300000, guid: 077cadbc4fc492b478389ae9cc3882b6, type: 3}
+  icon: {fileID: 21300000, guid: b6b8e66a6de8e7140806893a9a99a4da, type: 3}
+  iconSelected: {fileID: 21300000, guid: ca38bcacb4a60634ea68d4ec0dcbbcf2, type: 3}
+  iconHover: {fileID: 21300000, guid: 10adc15256de4854b8d18a53916f4d48, type: 3}

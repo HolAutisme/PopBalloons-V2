@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99d49ce1ad3d95141b2cf791cb8a77d1, type: 3}
+  m_Name: AvatarSettings
+  m_EditorClassIdentifier: 
+  colors:
+  - {fileID: 11400000, guid: e6bf138228431654eabb8a0a722a8b8e, type: 2}
+  - {fileID: 11400000, guid: 7e77645df185b344dbe3cd835f778ffe, type: 2}
+  - {fileID: 11400000, guid: 31b8524e1e8f5c2458dc6948b5769820, type: 2}
+  - {fileID: 11400000, guid: b240d75e30326f34aab93b0b47a2b9ef, type: 2}
+  eyes:
+  - {fileID: 11400000, guid: 8ffc4a579c8852c4aa2a869169b0c964, type: 2}
+  - {fileID: 11400000, guid: 9009ec1857dc81143829143e21cc3908, type: 2}
+  - {fileID: 11400000, guid: a607e454c14d3d24083f08f7d6f165f0, type: 2}
+  - {fileID: 11400000, guid: b939ed6f05ecd0349bfbfc3e0bada1c0, type: 2}
+  accessories:
+  - {fileID: 11400000, guid: cb4e3a5d0439ec942bee34f5166982a2, type: 2}
+  - {fileID: 11400000, guid: 23adfbddad2a7474b85dabe659838ce7, type: 2}
+  - {fileID: 11400000, guid: 6b8413aa429f7944d9fcf2748a0a9ffc, type: 2}
+  - {fileID: 11400000, guid: e10dca435fbcdb145bd08a498e6ca806, type: 2}
